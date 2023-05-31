@@ -1,4 +1,4 @@
-#<a href="http://happyboxes.site/main/welfare">HappyBox</a>
+# HappyBox - <a href="http://happyboxes.site/main/welfare">바로가기</a>
 스프링 JPA 프로젝트 : 시니어가 배송하는 복지관 구독 서비스 및 못난이 지역상품 유통 플랫폼
 
 ## :desktop_computer: 프로젝트 소개
